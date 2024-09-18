@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04ce33ac68bc740548d38b221f8da368, type: 3}
+  m_Name: WelcomeMessage
+  m_EditorClassIdentifier: 
+  message: Hello KIT109
+  options:
+  - text: Hi Lindsay you're great
+    dialog: {fileID: 11400000, guid: 3a997edeeed624d6c81984fcc8039635, type: 2}
+  - text: Go away lindsay
+    dialog: {fileID: 11400000, guid: a647b97306b124f3baa6e5e43ef1fef8, type: 2}
+  - text: lindsay you suck
+    dialog: {fileID: 11400000, guid: a647b97306b124f3baa6e5e43ef1fef8, type: 2}
